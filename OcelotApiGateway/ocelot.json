@@ -1,0 +1,55 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/ProcessPension/inputdetails",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44332"
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/inputdetails",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "DownstreamPathTemplate": "/ProcessPension/disbursepension",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44332"
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/disbursepension",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "DownstreamPathTemplate": "/PensionDisbursement/Status",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44303"
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/Status",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/ProcessPension/testget",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44332"
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:44382"
+  }
+}

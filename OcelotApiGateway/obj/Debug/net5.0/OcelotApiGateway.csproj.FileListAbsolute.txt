@@ -1,0 +1,76 @@
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\appsettings.Development.json
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\appsettings.json
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\ocelot.json
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.exe
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.deps.json
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.runtimeconfig.json
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.runtimeconfig.dev.json
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\ref\OcelotApiGateway.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.pdb
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\FluentValidation.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Ocelot.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.csproj.AssemblyReference.cache
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.AssemblyInfoInputs.cache
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.AssemblyInfo.cs
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.csproj.CoreCompileInputs.cache
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\staticwebassets\OcelotApiGateway.StaticWebAssets.Manifest.cache
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\staticwebassets\OcelotApiGateway.StaticWebAssets.xml
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\scopedcss\bundle\OcelotApiGateway.styles.css
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.RazorTargetAssemblyInfo.cache
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.csproj.CopyComplete
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\ref\OcelotApiGateway.dll
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.pdb
+E:\Cognizant\PensionProject_MFPE\PensionManagement\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.genruntimeconfig.cache
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\appsettings.Development.json
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\appsettings.json
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\ocelot.json
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.exe
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.deps.json
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.runtimeconfig.json
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.runtimeconfig.dev.json
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\ref\OcelotApiGateway.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\OcelotApiGateway.pdb
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\FluentValidation.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Ocelot.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.csproj.AssemblyReference.cache
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.AssemblyInfoInputs.cache
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.AssemblyInfo.cs
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.csproj.CoreCompileInputs.cache
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\staticwebassets\OcelotApiGateway.StaticWebAssets.Manifest.cache
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\staticwebassets\OcelotApiGateway.StaticWebAssets.xml
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\scopedcss\bundle\OcelotApiGateway.styles.css
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.RazorTargetAssemblyInfo.cache
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.csproj.CopyComplete
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\ref\OcelotApiGateway.dll
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.pdb
+E:\Cognizant\Pension Project Final\OcelotApiGateway\obj\Debug\net5.0\OcelotApiGateway.genruntimeconfig.cache
